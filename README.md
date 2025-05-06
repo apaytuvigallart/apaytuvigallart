@@ -13,4 +13,7 @@ You can find me here:
 Ah! And the rabbit you see as my profile image is Brownie 🐰. He's my pet and I simply love him 😄.
 
 ## Tech stack 👨‍💻
-<a href=" " target="blank"><img align="center" src="https://github.com/apaytuvigallart/apaytuvigallart/blob/master/tech_stack_images/gcp.png" height="50" alt="GCP logo"/></a> 
+<a href=" " target="blank"><img align="center" src="https://github.com/apaytuvigallart/apaytuvigallart/blob/master/tech_stack_images/gcp.png" height="50" alt="GCP logo"/></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/apaytuvigallart/apaytuvigallart/blob/master/tech_stack_images/aws.png" height="50" alt="AWS logo"/></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/apaytuvigallart/apaytuvigallart/blob/master/tech_stack_images/git.png" height="50" alt="Git logo"/></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/apaytuvigallart/apaytuvigallart/blob/master/tech_stack_images/python.png" height="50" alt="Python logo"/></a>
