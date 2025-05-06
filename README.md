@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome everyone! 
 
-<!--
-**apaytuvigallart/apaytuvigallart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Here's a bit about myself 🙌
 
-Here are some ideas to get you started:
+I'm a Cloud Engineer based in Blanes 🌴, with around 5 years of hands-on experience working in cloud environments—mostly with GCP and AWS. I'm currently working as a Python Developer (or Cloud Software Engineer, depending on the day 😄), doing a bit of everything: writing Python code, building the infrastructure, deploying to AWS, and making sure everything runs smoothly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about the cloud, love automating stuff, and enjoy getting my hands dirty with both code and infrastructure. Right now, most of my coding happens in Python.
+
+You can find me here:
+- [Linkedin](linkedin.com/in/aleix-paytuvi)
+- [Email](mailto:aleixpaytuvi@gmail.com)
+
+Ah! And the rabbit you see as my profile image is Brownie 🐰. He's my pet and I simply love him 😄.
+
+## Tech stack 👨‍💻
+<a href=" " target="blank"><img align="center" src="https://github.com/apaytuvigallart/apaytuvigallart/blob/master/tech_stack_images/gcp.png" height="50" alt="GCP logo"/></a> 
