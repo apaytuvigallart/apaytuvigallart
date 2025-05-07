@@ -10,7 +10,7 @@ You can find me here:
 - [Linkedin](linkedin.com/in/aleix-paytuvi)
 - [Email](mailto:aleixpaytuvi@gmail.com)
 
-Ah! And the rabbit you see as my profile image is Brownie 🐰. He's my pet and I simply love him 😄.
+Ah! The rabbit you see as my profile image is Brownie 🐰. He's my pet and I simply love him 😄.
 
 ## Tech stack 👨‍💻
 <a href=" " target="blank"><img align="center" src="https://github.com/apaytuvigallart/apaytuvigallart/blob/master/tech_stack_images/gcp.png" height="50" width="50" alt="GCP logo"/></a>
