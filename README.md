@@ -1,8 +1,6 @@
 # Here's a bit about myself 🙌
 
-I'm a Cloud Engineer based in Blanes 🌴, with around 5 years of hands-on experience working in cloud environments—mostly with GCP and AWS. I'm currently working as a Cloud Software Engineer, doing a bit of everything: writing stuff with Python, building the infrastructure, deploying to AWS, and making sure everything runs smoothly.
-
-I’m passionate about the cloud, love automating stuff, and enjoy getting my hands dirty with both code and infrastructure.
+I'm a Cloud Engineer based in Blanes 🌴, with around 5 years of hands-on experience working in cloud environments—mostly with GCP and AWS. I’m passionate about the cloud, love automating stuff, and enjoy getting my hands dirty with both code and infrastructure.
 
 Ah! The rabbit you see as my profile image is Brownie 🐰. He's my pet and I simply love him 😄.<br><br>
 
